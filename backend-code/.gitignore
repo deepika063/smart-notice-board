@@ -1,0 +1,17 @@
+# Node modules (very large, never push)
+node_modules/
+
+# Environment variables (keep secrets safe)
+.env
+
+# Logs
+npm-debug.log
+yarn-error.log
+
+# System or editor folders
+.vscode/
+.DS_Store
+
+# Build and cache
+dist/
+coverage/
